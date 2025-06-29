@@ -47,11 +47,11 @@ The dataset consists of two main tables:
 
 ## Dashboards
 
-### Geographical Analysis Dashboard
-![Geographical Analysis Dashboard](images/Geographical%20analysis%20dashboard.JPG)
-
 ### Sales & Order Trends Dashboard
 ![Sales and Order Trends Dashboard](images/Sales%20and%20Order%20Dashboard.JPG)
+
+### Geographical Analysis Dashboard
+![Geographical Analysis Dashboard](images/Geographical%20analysis%20dashboard.JPG)
 
 ---
 
